@@ -25,6 +25,6 @@ To install the extension just run the **install.sh** script with the following c
 <hr>
 <br>
 
-<!-- # Notes
+# Notes
 
-- This extension is available in [GNOME Extensions](https://extensions.gnome.org/extension/5105/reboottouefi/). -->
+- This extension is available in [GNOME Extensions](https://extensions.gnome.org/extension/5913/rebootto/).
